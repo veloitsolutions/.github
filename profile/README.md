@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Veloit Solutions</h1>
 
 <p align="center">
@@ -10,7 +9,7 @@
 
 ---
 
-## 🧠 Overview
+## About Us
 
 **Veloit** is an AI-powered software company building intelligent solutions that drive smarter decisions and faster growth.
 
